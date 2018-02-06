@@ -14,10 +14,6 @@
  * Designer / _Kyuho Kim_ / https://kimkyuho.com/
  * Illustator / _MORAE_ / http://shinmorae.com/
 
-## Blog
-
- * Developer / _Project__Junho Park_ / http://junojunho.com/
-
 ## Promotion
 
  * Event / _Festival Bo:m, Seoul_ / http://www.sulki-min.com/bom09/ / Designed by Sulki & Min
@@ -27,4 +23,4 @@
 
 ## Homepage
 
-* 비영리단체 / _환경정의_ /  http://eco.or.kr/ / Designed by 일상의실천
+* NPO / _환경정의_ /  http://eco.or.kr/ / Designed by 일상의실천
