@@ -1,6 +1,7 @@
 # Awesome Websites
 
 ## Portfolio
+ * Designer / _Graphic Design Studio mykc_ / http://www.mykc.kr/
  * Photographer, Designer / _KimMinSik / PORTFOLIO_ / http://www.minsik.gallery/
  * UX Designer, Reseacher, Engineer / _Mopsy_ / https://mopsyshin.github.io/
  * Musician, Designer, Media artist / _JTD1LAB_ / http://jtoda.one
