@@ -3,6 +3,11 @@
 
 ## Portfolio
 
+* Artist / _YOUNG-HAE CHANG HEAVY INDUSTRIES_ / http://www.yhchang.com/
+* Designer / _Guho Choi_ / http://guhochoi.com/
+* Designer / _STUDIO HEYDEY_ / http://www.studioheydey.com/main.do
+* Designer / _Gunjung Lee_ / http://cargocollective.com/leegun
+* Designer / _joonghyuncho_ / https://joonghyuncho.com/
 * Developer / _Christopher Kim_ / https://itschris.me/
 * Designer / _Graphic Design Studio mykc_ / http://www.mykc.kr/
 * Photographer, Designer / _KimMinSik / PORTFOLIO_ / http://www.minsik.gallery/
