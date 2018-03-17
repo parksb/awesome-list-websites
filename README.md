@@ -3,6 +3,7 @@
 
 ## Portfolio
 
+* Designer / _studio artst_ / http://studioartst.com/
 * Artist / _YOUNG-HAE CHANG HEAVY INDUSTRIES_ / http://www.yhchang.com/
 * Designer / _Guho Choi_ / http://guhochoi.com/
 * Designer / _STUDIO HEYDEY_ / http://www.studioheydey.com/main.do
